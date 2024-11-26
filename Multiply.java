@@ -1,4 +1,4 @@
-public class Sample {
+public class Multiply {
     public static void main(String[] args) {
         // Predefined numbers
         double num1 = 5.0; // You can change these values as needed

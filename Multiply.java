@@ -8,4 +8,4 @@ public class Multiply {
         double result = num1 * num2;
 
         // Display the result
-        System.out.println("The result of multiplication is: " + result)}}
+        System.out.println("The result of multiplication is: " + result);}}
